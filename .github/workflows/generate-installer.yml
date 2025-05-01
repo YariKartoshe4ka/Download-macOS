@@ -30,7 +30,7 @@ env:
 jobs:
   build:
     runs-on: macos-13
-    if: github.repository == 'WhatDamon/Download-macOS'
+    if: github.repository == 'YariKartoshe4ka/Download-macOS'
     steps:
       - uses: actions/checkout@v4
       
